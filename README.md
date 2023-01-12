@@ -27,7 +27,7 @@ In this project you will find Covid-19 cases prediction for the next 30 days, us
 
 In this project you will find MNIST classification using CNN architecture, inspired by LeNet5. 
 
-Check out my Full Portfolio for more information and other projects --> (![https://github.com/StamKavid/StamKavid_Portfolio])
+Check out my Full Portfolio for more information and other projects: [https://github.com/StamKavid/StamKavid_Portfolio]
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stamatiskavidopoulos) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@StamKav) 
