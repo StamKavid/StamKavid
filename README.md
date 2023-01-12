@@ -3,13 +3,17 @@ I am a Data Scientist currently working at Pfizer. I have a Diploma (MEng) in Me
 
 **Technologies:**
 
-• Python (Numpy, Pandas, Seaborn, Sklearn, TensorFlow, etc.) -  Proficient in Python and have experience working with various libraries and frameworks for data analysis and machine learning.
+• Python (Numpy, Pandas, Seaborn, Sklearn, TensorFlow, etc.) | 
+Proficient in Python and have experience working with various libraries and frameworks for data analysis and machine learning.
 
-• Deep Learning Frameworks & architectures - Familiar with multiple DL frameworks such as Tensorflow, Keras, PyTorch, and architectures such as CNN, RNN and GAN.
+• Deep Learning Frameworks & architectures | 
+Familiar with multiple DL frameworks such as Tensorflow, Keras, PyTorch, and architectures such as CNN, RNN and GAN.
 
-• Athena/Redshift/Snowflake SQL - I have experience working with SQL and am able to efficiently retrieve and manipulate data for analysis.
+• Athena/Redshift/Snowflake SQL | 
+I have experience working with SQL and am able to efficiently retrieve and manipulate data for analysis.
 
-• Dataiku Data Science Studio (DSS) - Experienced with DSS for data management, preprocessing, and model deployment.
+• Dataiku Data Science Studio (DSS) |
+Experienced with DSS for data management, preprocessing, and model deployment.
 
 • React/Dash - Experience with front-end development using React/Dash.
 
