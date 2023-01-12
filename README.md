@@ -1,17 +1,19 @@
 # 💫About Me :
-Data Scientist working @ Pfizer, academically educated, possessing Diploma (MEng) in Mechanical Engineering from the Aristotle University of Thessaloniki.
+I am a Data Scientist currently working at Pfizer. I have a Diploma (MEng) in Mechanical Engineering from the Aristotle University of Thessaloniki. I have several years of experience in data science, specifically in developing and deploying machine learning models, data exploration and analysis, and data visualization. I am passionate about using data to drive business decisions and improve operations.
+
+In addition to my academic background, I have honed my skills through various projects and collaborations with cross-functional teams. I am comfortable working with large and complex datasets, and am able to extract insights and trends from them. I am always seeking to learn and improve my skills, and am constantly staying up to date with the latest advancements in the field.
 
 Technologies:
 
-• Python (Numpy, Pandas, Seaborn, Sklearn, TensorFlow, etc.)
+• Python (Numpy, Pandas, Seaborn, Sklearn, TensorFlow, etc.) -  Proficient in Python and have experience working with various libraries and frameworks for data analysis and machine learning.
 
-• Deep Learning Frameworks & architectures 
+• Deep Learning Frameworks & architectures - Familiar with multiple DL frameworks such as Tensorflow, Keras, PyTorch, and architectures such as CNN, RNN and GAN.
 
-• Athena/Redshift/Snowflake SQL
+• Athena/Redshift/Snowflake SQL - I have experience working with SQL and am able to efficiently retrieve and manipulate data for analysis.
 
-• Dataiku Data Science Studio (DSS)
+• Dataiku Data Science Studio (DSS) - Experienced with DSS for data management, preprocessing, and model deployment.
 
-• React
+• React/Dash - Experience with front-end development using React/Dash.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stamatiskavidopoulos) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@StamKav) 
