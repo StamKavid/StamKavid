@@ -15,19 +15,19 @@ I am a Data Scientist currently working at Pfizer. I have a Diploma (MEng) in Me
 
 # 📂Portfolio :
 
-[![Project 1: Mimic III Full Stack application](https://github.com/StamKavid/Mimic_III_full_stack_application)]
+![Project 1: Mimic III Full Stack application](https://github.com/StamKavid/Mimic_III_full_stack_application)
 
 The goal of this application is to correlate the patients' interactions with the duration of their hospitalization.
 
-[![Project 2: COVID-19 Forecasting](https://github.com/StamKavid/COVID_19_simple_analysis)]
+![Project 2: COVID-19 Forecasting](https://github.com/StamKavid/COVID_19_simple_analysis)
 
 In this project you will find Covid-19 cases prediction for the next 30 days, using Facebook Prophet model.
 
-[![Project 3: MNIST Image Classification](https://github.com/StamKavid/MNIST_image_classification)]
+![Project 3: MNIST Image Classification](https://github.com/StamKavid/MNIST_image_classification)
 
 In this project you will find MNIST classification using CNN architecture, inspired by LeNet5. 
 
-Check out my Full Portfolio for more information and other projects - (![https://github.com/StamKavid/StamKavid_Portfolio])
+Check out my Full Portfolio for more information and other projects --> (![https://github.com/StamKavid/StamKavid_Portfolio])
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stamatiskavidopoulos) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@StamKav) 
