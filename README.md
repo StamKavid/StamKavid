@@ -23,9 +23,9 @@ Project 2: COVID-19 Forecasting
 
 In this project you will find Covid-19 cases prediction for the next 30 days, using Facebook Prophet model. (![https://github.com/StamKavid/COVID_19_simple_analysis])
 
-Project 3: MNIST Image Classification
+[![Project 3: MNIST Image Classification](https://github.com/StamKavid/MNIST_image_classification)
 
-In this project you will find MNIST classification using CNN architecture, inspired by LeNet5. (![Project3](https://github.com/StamKavid/MNIST_image_classification))
+In this project you will find MNIST classification using CNN architecture, inspired by LeNet5. 
 
 Check out my Full Portfolio for more information and other projects - (![https://github.com/StamKavid/StamKavid_Portfolio])
 
