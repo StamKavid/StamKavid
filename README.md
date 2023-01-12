@@ -6,7 +6,7 @@ I am a Data Scientist currently working at Pfizer. I have a Diploma (MEng) in Me
 • Python (Numpy, Pandas, Seaborn, Sklearn, TensorFlow, etc.) | 
 Proficient in Python and have experience working with various libraries and frameworks for data analysis and machine learning.
 
-• Deep Learning Frameworks & architectures | 
+• Deep Learning Frameworks & architectures | /n
 Familiar with multiple DL frameworks such as Tensorflow, Keras, PyTorch, and architectures such as CNN, RNN and GAN.
 
 • Athena/Redshift/Snowflake SQL | 
