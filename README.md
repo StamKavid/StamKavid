@@ -17,17 +17,18 @@ I am a Data Scientist currently working at Pfizer. I have a Diploma (MEng) in Me
 
 [Project 1: Mimic III Full Stack application](https://github.com/StamKavid/Mimic_III_full_stack_application)
 
-The goal of this application is to correlate the patients' interactions with the duration of their hospitalization.
+The goal of this application is to analyze the correlation between patients' interactions and the duration of their hospital stay. By utilizing data from the MIMIC III database and implementing a full stack solution, this project aims to provide valuable insights for healthcare professionals to optimize patient care and reduce length of stay.
 
 [Project 2: COVID-19 Forecasting](https://github.com/StamKavid/COVID_19_simple_analysis)
 
-In this project you will find Covid-19 cases prediction for the next 30 days, using Facebook Prophet model.
+This project utilizes time series analysis to forecast the number of COVID-19 cases for the next 30 days. By implementing the Facebook Prophet model and utilizing real-world data, this project aims to provide insight into the potential spread of the virus and assist in pandemic response planning.
 
 [Project 3: MNIST Image Classification](https://github.com/StamKavid/MNIST_image_classification)
 
-In this project you will find MNIST classification using CNN architecture, inspired by LeNet5. 
+This project explores the use of convolutional neural networks (CNNs) for image classification, specifically on the MNIST dataset. By implementing a CNN architecture inspired by LeNet-5, this project aims to demonstrate the effectiveness of CNNs for image recognition tasks and serve as a foundation for further research in the field.
 
-Check out my [Full Portfolio](https://github.com/StamKavid/StamKavid_Portfolio) for more information and other projects
+Please visit my [Full Portfolio](https://github.com/StamKavid/StamKavid_Portfolio) for more information and other projects.
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stamatiskavidopoulos) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@StamKav) 
