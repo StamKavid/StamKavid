@@ -1,5 +1,5 @@
 # 💫About Me :
-I am a Data Scientist currently working at Pfizer. I have a Diploma (MEng) in Mechanical Engineering from the Aristotle University of Thessaloniki. I have several years of experience in data science, specifically in developing and deploying machine learning models, data exploration and analysis, and data visualization. I am passionate about using data to drive business decisions and improve operations.
+I am a Data Scientist currently working at Pfizer. I have a BSc, MSc in Mechanical Engineering from the Aristotle University of Thessaloniki. I have several years of experience in data science, specifically in developing and deploying machine learning models, data exploration and analysis, and data visualization. I am passionate about using data to drive business decisions and improve operations.
 
 ### **TECHNOLOGIES:**
 
