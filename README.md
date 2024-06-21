@@ -15,10 +15,10 @@ I have experience working with SQL and am able to efficiently retrieve and manip
 • **Dataiku Data Science Studio (DSS)** <br>
 Experienced with DSS for data management, preprocessing, and model deployment.
 
-• **React/Dash** <br> 
+• **React/Dash/Streamlit** <br> 
 Experience with front-end development using React/Dash.
 
-• **Flask/Rest API** <br> 
+• **Flask/Rest/FastAPI API** <br> 
 Experience with back-end development using Flask.
 
 # 💻Tech Stack
