@@ -1,5 +1,5 @@
 # 💫About Me
-I am a Data Scientist currently working at Pfizer. I have an MSc in Mechanical Engineering from the Aristotle University of Thessaloniki. I have several years of experience in data science, specifically in developing and deploying machine learning models, data exploration and analysis, and data visualization. I am passionate about using data to drive business decisions and improve operations.
+I am a Data Scientist currently working at Pfizer. I have an MBA & MEng in Mechanical Engineering. I have several years of experience in data science, specifically in developing and deploying machine learning models, data exploration and analysis, and data visualization. I am passionate about using data to drive business decisions and improve operations.
 
 ### **TECHNOLOGIES:**
 
@@ -26,15 +26,19 @@ Experience with back-end development using Flask.
 
 # 📂Portfolio
 
-[Project 1: Mimic III Full Stack application](https://github.com/StamKavid/Mimic_III_full_stack_application)
+[Project 1: FinAgent: Multi-Agent AI for Bitcoin Analytics & Forecasting](https://github.com/StamKavid/FinAgent)
+
+This project showcases an AI multi-agent system designed for comprehensive cryptocurrency analysis, with a particular focus on Bitcoin (BTC), tailored for my MBA Dissertation Thesis. The system leverages artificial intelligence agents and machine learning models to extract, process, and analyze historical cryptocurrency data.
+
+[Project 2: Mimic III Full Stack application](https://github.com/StamKavid/Mimic_III_full_stack_application)
 
 The goal of this application is to analyze the correlation between patients' interactions and the duration of their hospital stay. By utilizing data from the MIMIC III database and implementing a full stack solution, this project aims to provide valuable insights for healthcare professionals to optimize patient care and reduce length of stay.
 
-[Project 2: COVID-19 Forecasting](https://github.com/StamKavid/COVID_19_simple_analysis)
+[Project 3: COVID-19 Forecasting](https://github.com/StamKavid/COVID_19_simple_analysis)
 
 This project utilizes time series analysis to forecast the number of COVID-19 cases for the next 30 days. By implementing the Facebook Prophet model and utilizing real-world data, this project aims to provide insight into the potential spread of the virus and assist in pandemic response planning.
 
-[Project 3: MNIST Image Classification](https://github.com/StamKavid/MNIST_image_classification)
+[Project 4: MNIST Image Classification](https://github.com/StamKavid/MNIST_image_classification)
 
 This project explores the use of convolutional neural networks (CNNs) for image classification, specifically on the MNIST dataset. By implementing a CNN architecture inspired by LeNet-5, this project aims to demonstrate the effectiveness of CNNs for image recognition tasks and serve as a foundation for further research in the field.
 
