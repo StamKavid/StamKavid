@@ -1,6 +1,6 @@
 # Hey, I'm Stamatis 👋
 
-Senior AI Engineer, where I run a team of AI engineers focused on one specific problem: **getting AI from "cool demo" to actually working in production.** We scout emerging tech, stress-test it against enterprise reality, and figure out what's ready for prime time — and what isn't.
+AI Innovation Lead at Pfizer, where I run a team of AI engineers focused on one specific problem: **getting AI from "cool demo" to actually working in production.** We scout emerging tech, stress-test it against enterprise reality, and figure out what's ready for prime time — and what isn't.
 
 I founded [**The Last AI Mile**](https://thelastaimile.substack.com/), a technical community for AI engineers who are tired of the gap between proof-of-concept excitement and production deployment pain. If you've ever built something brilliant in a notebook that died the moment it hit a real pipeline... yeah, that's what we talk about.
 
@@ -8,29 +8,41 @@ I founded [**The Last AI Mile**](https://thelastaimile.substack.com/), a technic
 
 ## 📂 Projects
 
-### [FinAgent: Multi-Agent AI for Bitcoin Analytics & Forecasting](https://github.com/StamKavid/FinAgent)
-A multi-agent system for cryptocurrency analysis, built for my MBA dissertation. Multiple AI agents collaborate to extract, process, and analyze historical crypto data — each agent owns a piece of the pipeline. It's a good example of how agent architectures can handle complex analytical workflows.
+### [FinAgent: Multi-Agent AI for Bitcoin Analytics & Forecasting](https://github.com/StamKavid/FinAgent) ⭐ 51
 
-> 🔗 More projects at my [Full Portfolio](https://github.com/StamKavid/StamKavid_Portfolio)
+Three specialized AI agents — Financial Analyst, Research Analyst, and Investment Advisor — collaborate to analyze crypto markets end-to-end. Built with CrewAI, it uses tree-based feature selection across 85+ technical indicators and time-series prediction to generate comprehensive investment reports. MBA Dissertation project.
+
+`Python` `CrewAI` `yfinance` `scikit-learn` `Pandas` `Seaborn`
+
+### [Claude Code Prompting 101](https://github.com/StamKavid/claude-code-prompting-101) ⭐ 11
+
+An 8-chapter structured course for mastering prompt engineering with Claude AI. Covers prompt architecture, context engineering, few-shot learning, output formatting, and production optimization. Includes working code examples, interactive exercises, mermaid diagrams, and an assessment engine.
+
+`Python` `Claude API` `Prompt Engineering`
+
+### [Karpathy LLM Deep Dive](https://github.com/StamKavid/karpathy-llm-deep-dive) ⭐ 5
+
+10-chapter deep dive into Large Language Models following Andrej Karpathy's methodology. Covers the complete pipeline from data processing and tokenization through transformer architecture, pre-training, supervised fine-tuning, RLHF, and deployment — with hands-on code and visual diagrams throughout.
+
+`Python` `LLMs` `Transformers` `RLHF`
+
+### [Mimic III Full Stack Application](https://github.com/StamKavid/Mimic_III_full_stack_application)
+
+Full stack healthcare app correlating patient interactions with hospitalization duration using the MIMIC-III clinical database. Flask REST API backend, React frontend, and ML prediction pipeline — data science through deployment in a single repo.
+
+`Python` `Flask` `React` `scikit-learn` `CatBoost` `XGBoost`
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
-Python · SQL (Snowflake, Redshift, Athena) · R
+**AI/ML & GenAI** — LLM orchestration & agent frameworks · RAG pipelines · Document AI & parsing evaluation · TensorFlow · PyTorch · Keras · scikit-learn · CrewAI · Model evaluation & benchmarking
 
-**AI/ML & GenAI**
-LLM orchestration & agent frameworks · RAG pipelines · Document AI & parsing evaluation · TensorFlow · PyTorch · Keras · scikit-learn · Model evaluation & benchmarking
+**Languages & Data** — Python · SQL (Snowflake, Redshift, Athena) · R · Pandas · NumPy · SciPy
 
-**Data & Infrastructure**
-Pandas · NumPy · SciPy · AWS · Dataiku DSS
+**Web & APIs** — React · Dash · Streamlit · FastAPI · Flask
 
-**Web & APIs**
-React · Dash · Streamlit · FastAPI · Flask
-
-**Tools & Process**
-Git · GitHub (CODEOWNERS, PR templates, code review workflows) · Jira
+**Infra & Tools** — AWS · Dataiku DSS · Git · GitHub (CODEOWNERS, PR templates, code review workflows) · Jira
 
 ---
 
