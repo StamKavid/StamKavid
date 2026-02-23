@@ -1,3 +1,6 @@
+[![Portfolio](https://img.shields.io/badge/Portfolio-stamkavid.github.io-1B6B3A?style=for-the-badge)](https://stamkavid.github.io)
+[![Substack](https://img.shields.io/badge/Substack-The%20Last%20AI%20Mile-1B6B3A?style=for-the-badge)](https://thelastaimile.substack.com/)
+
 # Hey, I'm Stamatis 👋
 
 AI Innovation Lead at Pfizer, where I run a team of AI engineers focused on one specific problem: **getting AI from "cool demo" to actually working in production.** We scout emerging tech, stress-test it against enterprise reality, and figure out what's ready for prime time — and what isn't.
