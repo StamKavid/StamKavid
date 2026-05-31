@@ -43,7 +43,7 @@ Full stack healthcare app correlating patient interactions with hospitalization 
 
 **Languages & Data** — Python · SQL (Snowflake, Redshift, Athena) · R · Pandas · NumPy · SciPy
 
-**Web & APIs** — React · Dash · Streamlit · FastAPI · Flask
+**Web & APIs** — React · Dash · Streamlit · FastAPI · NodeJS
 
 **Infra & Tools** — AWS · Dataiku DSS · Git · GitHub (CODEOWNERS, PR templates, code review workflows) · Jira
 
@@ -51,7 +51,7 @@ Full stack healthcare app correlating patient interactions with hospitalization 
 
 ## 🌐 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stamatiskavidopoulos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stamatiskavidopoulos) [![Substack](https://img.shields.io/badge/Substack-%23FF6719.svg?logo=substack&logoColor=white)](https://thelastaimile.substack.com)
 
 ---
 
