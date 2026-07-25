@@ -11,13 +11,13 @@ I founded [**The Last AI Mile**](https://thelastaimile.substack.com/), a technic
 
 ## 📂 Projects
 
-### [FinAgent: Multi-Agent AI for Bitcoin Analytics & Forecasting](https://github.com/StamKavid/FinAgent) ⭐ 51
+### [FinAgent: Multi-Agent AI for Bitcoin Analytics & Forecasting](https://github.com/StamKavid/FinAgent) ⭐ 53
 
 Three specialized AI agents — Financial Analyst, Research Analyst, and Investment Advisor — collaborate to analyze crypto markets end-to-end. Built with CrewAI, it uses tree-based feature selection across 85+ technical indicators and time-series prediction to generate comprehensive investment reports. MBA Dissertation project.
 
 `Python` `CrewAI` `yfinance` `scikit-learn` `Pandas` `Seaborn`
 
-### [Claude Code Prompting 101](https://github.com/StamKavid/claude-code-prompting-101) ⭐ 11
+### [Claude Code Prompting 101](https://github.com/StamKavid/claude-code-prompting-101) ⭐ 27
 
 An 8-chapter structured course for mastering prompt engineering with Claude AI. Covers prompt architecture, context engineering, few-shot learning, output formatting, and production optimization. Includes working code examples, interactive exercises, mermaid diagrams, and an assessment engine.
 
